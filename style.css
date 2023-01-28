@@ -1,0 +1,120 @@
+.topcot{
+    background-color: #EFFFFD;
+    height: 830px;
+    margin:0;
+  
+}
+h1{
+   
+    font-family: 'Great Vibes', cursive;
+    font-size: 5.625rem;
+    margin-top: 25px;
+    color:  #66BFBF;
+    line-height: 2;
+}
+
+.cp{
+    color: white;
+}
+.h31{
+    font: size 2.5rem;
+    font-family: 'Padyakke Expanded One', cursive,bold;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+body{
+   text-align: center;
+    margin: 0 0 0 0;
+    border: 0;
+    font-family: 'Kanit', sans-serif;
+
+}
+h3{
+    color: #11999E;
+}
+
+.midcot{
+    
+}
+.botcot{
+    background-color: #66BFBF;
+    padding: 2rem;
+   
+}
+a{
+    color: #a8e7e9;
+    font-family: 'Kanit', sans-serif,bold;
+    text-decoration: none;
+
+
+}
+a:hover{
+    color: #EAF6F6;
+}
+.c1{
+margin-top: 50px;
+margin-left:  800px;
+width: 15%;
+ 
+    }
+.c2{
+    position: absolute;
+    left: 200px;
+    width: 15%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  
+    
+}
+.w1{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.w2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+    
+}
+.btn {
+    margin: 100px auto;
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  
+  hr{
+    border: 7px dotted #EAF6F6;
+    width: 10%;
+    border-bottom: none;
+    margin: 100px auto;
+    
+  }
+ 
